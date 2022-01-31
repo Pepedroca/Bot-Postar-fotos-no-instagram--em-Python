@@ -1,3 +1,11 @@
+"""
+
+OBS:
+1- Primeiramente instale um executavel chamado chromedriver.exe link downloads
+para linux ou windowns: https://chromedriver.chromium.org/downloads
+e so jogar na raiz da sua pasta onde esta o seu codigo
+"""
+
 from email import message
 from webbrowser import Chrome
 import pyautogui
